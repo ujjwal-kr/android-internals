@@ -30,6 +30,7 @@ A reference to learn about android, the modified android (linux) kernel, the DVM
 
 ## Dart and NDK
 - [Android NDK guides](https://developer.android.com/ndk/guides)
+- [Dart](https://dart.dev/guides)
 - [Dart VM](https://mrale.ph/dartvm)
 - Prerequisites for reversing NDK stuff: [My Binary Exploitation Resources](https://github.com/ujjwal-kr/system-programming-roadmap#exploitation----2-4-months)
 - [Reversing flutter apps I](https://blog.tst.sh/reverse-engineering-flutter-apps-part-1/), [Reversing flutter apps II](https://blog.tst.sh/reverse-engineering-flutter-apps-part-2/)
