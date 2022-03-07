@@ -25,7 +25,7 @@ A reference to learn about android, the modified android (linux) kernel, the DVM
 - [ADB](https://developer.android.com/studio/command-line/adb)
 - [Frida](https://frida.re/docs/android)
 - [OWASP mstg guide android reversing and tampering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md)
-- Try solving [some crackmes](https://github.com/reoky/android-crackme-challenge) & more challenges you can find
+- Try solving [some crackmes](https://github.com/reoky/android-crackme-challenge) & other challenges you can find
 - [Android Anti-Reversing Defenses](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md)
 
 ## Dart and NDK
