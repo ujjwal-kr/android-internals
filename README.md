@@ -19,7 +19,7 @@ A reference to learn about android, the modified android (linux) kernel, the DVM
 - [Android Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05a-Platform-Overview.md)
 - [Creating an app](https://developer.android.com/training/basics/firstapp)
 - Try to read the source code of an opensource android app
-- [Android Internals::Power User's View](https://www.amazon.com/Android-Internals-Power-Users-View/dp/0991055586)
+- [Android Internals Power User's View](https://www.amazon.com/Android-Internals-Power-Users-View/dp/0991055586)
 
 ## Reverse Engineering Android Apps
 - [ADB](https://developer.android.com/studio/command-line/adb)
